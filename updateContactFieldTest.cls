@@ -1,5 +1,7 @@
 @isTest
 public class updateContactFieldTest {
+
+  //Test method
   @isTest
   public static void test() {
     Account acc = new Account();
